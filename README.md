@@ -26,10 +26,18 @@ PlanPilot is your go-to **project management solution** designed for agile teams
 ---
 
 ## 🖼️ Screenshots
+*Homepage
+<img width="1893" height="899" alt="Screenshot 2025-07-17 101047" src="https://github.com/user-attachments/assets/ffc6e00c-a143-4b3d-90d3-df5b7f9adb59" />
+
+*Subscriptions
+<img width="1881" height="661" alt="Screenshot 2025-07-17 101124" src="https://github.com/user-attachments/assets/4d75d756-db46-462f-aa93-de2869f6d3f5" />
+*KanBan Board
+<img width="1878" height="811" alt="Screenshot 2025-07-17 101608" src="https://github.com/user-attachments/assets/87794fbc-f108-4f45-b657-d6859f94448f" />
 
 
 
 ---
+
 
 ## 🔐 Authentication
 
