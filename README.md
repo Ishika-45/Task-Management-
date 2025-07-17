@@ -14,7 +14,6 @@ PlanPilot is your go-to **project management solution** designed for agile teams
 * 💳 **Subscription Payments** via Razorpay
 * 📊 **Progress Dashboard** (Coming Soon)
 * 💡 **Responsive UI** with Tailwind CSS
-* 🌐 Hosted on [Vercel]
 
 ---
 
@@ -127,11 +126,6 @@ src/
 * 🔔 Real-time Notifications
 * 🦴 Custom Workflows
 
----
-
-## 🌍 Live Demo
-
-👉 [Visit PlanPilot Live](https://planpilot.vercel.app)
 
 ---
 
